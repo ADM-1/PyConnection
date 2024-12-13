@@ -1,2 +1,8 @@
 .idea/
 .venv/
+
+#Windows
+desktop.ini
+
+#VScode
+.vscode/
